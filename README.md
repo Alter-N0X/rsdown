@@ -11,7 +11,7 @@ A Python script that downloads React application source code exposed in browser 
 
 1. **Clone or download the script**:
    ```bash
-   curl -O https://raw.githubusercontent.com/your-repo/react-source-downloader/main/rsdown.py
+   curl -O https://raw.githubusercontent.com/Alter-N0X/rsdown/refs/heads/main/rsdown.py
    ```
 
 2. **Install dependencies**:
