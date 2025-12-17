@@ -167,7 +167,6 @@ Do you want to download these files? (y/n): y
 - **Development Mode Only**: Only works with development builds that expose source maps
 - **Source Maps Required**: Applications must have source maps enabled
 - **No Production Builds**: Minified/production builds typically don't expose source files
-- **Network Access**: Requires access to the target application's dev server
 
 ## 🐛 Troubleshooting
 
